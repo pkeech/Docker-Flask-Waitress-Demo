@@ -1,3 +1,7 @@
+## VSCODE
+vscode/
+Docker-Flask-Waitress-Demo.code-workspace
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
